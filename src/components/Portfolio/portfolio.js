@@ -34,7 +34,7 @@ const Portfolio = () => {
           <img src={port1} alt="" />
           <div className="service-card">
             <i className="bx bxs-user-voice" />
-            <h3>A Restaurant Rewiew Sentiment Analysis System</h3>
+            <h3>A Restaurant Review Sentiment Analysis System</h3>
             <p>
               A system that analyses restaurant reviews and gives a
               positive,neutral and negative sentiment. The system is built using
