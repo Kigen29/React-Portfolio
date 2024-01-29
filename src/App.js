@@ -2,6 +2,7 @@ import Navbar from "./components/Navbar/navbar";
 import About from "./components/About/about";
 import Portfolio from "./components/Portfolio/portfolio";
 import Contact from "./components/Contact/contact";
+import Kanye from "./components/Kanye/kanye";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <About/>
       <Portfolio/>
       <Contact/>
+      <Kanye/>
 
     </div>
   );

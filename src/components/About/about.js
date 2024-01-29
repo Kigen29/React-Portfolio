@@ -74,6 +74,7 @@ const About = () => {
           </div>
           <div className="progress">
             <div className="progress-bar w-75" />
+        
           </div>
           {/* end of single item */}
           {/* single item */}
