@@ -19,7 +19,7 @@ const Kanye = () => {
   }, []); // Empty dependency array ensures the effect runs only once
 
   return (
-    <div>
+    <div className ="Kanye-container">
       <h2>Kanye Says:</h2>
       <p>{quote}</p>
     </div>
