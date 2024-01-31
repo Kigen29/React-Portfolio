@@ -3,6 +3,7 @@ import About from "./components/About/about";
 import Portfolio from "./components/Portfolio/portfolio";
 import Contact from "./components/Contact/contact";
 import Kanye from "./components/Kanye/kanye";
+import './index.css';
 
 function App() {
   return (
